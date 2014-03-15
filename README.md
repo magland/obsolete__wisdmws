@@ -1,4 +1,4 @@
-wisdmcorews
+wisdmws
 ===========
 
 Core WISDM script library
